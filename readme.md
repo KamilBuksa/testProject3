@@ -7,3 +7,5 @@ lorem
 Hiperłącze,   Zajrzyj[tutaj](https://google.com)
 
 ### pod-podtytuł
+
+### licencja
